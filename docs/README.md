@@ -6,7 +6,7 @@
 
 当然，如果你想加入，我非常欢迎！
 
-## QQ频道/群：
+## QQ频道/群
 
 ### 加入链接
 
@@ -21,6 +21,7 @@ QQ群#2（没满）：[796440132](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=dpqQ
 小宇：<img src="http://q1.qlogo.cn/g?b=qq&nk=2656046824&s=100" id="cir">
 Leonz：<img src="http://q1.qlogo.cn/g?b=qq&nk=1377418284&s=100" id="cir">
 pooo：<img src="http://q1.qlogo.cn/g?b=qq&nk=1101447296&s=100" id="cir">
+</div>
 <br>
 <div class="vertical-center">
 Leaves：<img src="http://q1.qlogo.cn/g?b=qq&nk=1416439811&s=100" id="cir">
