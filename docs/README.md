@@ -17,13 +17,23 @@ QQ群#1（500人Max，没满可以加）：[992198378](http://qm.qq.com/cgi-bin/
 QQ群#2（没满）：[796440132](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=dpqQIGxhRwF9VSTqInzP2cYsggOrCDYT&authKey=PyllQ2TUs3iTy94f%2B6ynwCDXJic9xeXRqXzhyUff%2Fpl%2B7xs8GpwC6HVE%2Bn1nigQc&noverify=0&group_code=796440132)
 
 ### 在此也感谢三年来为群，频道所服务的管理员：
-
+<div class="vertical-center">
 - 小宇：<img src="http://q1.qlogo.cn/g?b=qq&nk=2656046824&s=100" id="cir">
 - Leonz：<img src="http://q1.qlogo.cn/g?b=qq&nk=1377418284&s=100" id="cir">
+- Leonz：<img src="http://q1.qlogo.cn/g?b=qq&nk=1377418284&s=100" id="cir">
+- Leonz：<img src="http://q1.qlogo.cn/g?b=qq&nk=1377418284&s=100" id="cir">
+- Leonz：<img src="http://q1.qlogo.cn/g?b=qq&nk=1377418284&s=100" id="cir">
+- Leonz：<img src="http://q1.qlogo.cn/g?b=qq&nk=1377418284&s=100" id="cir">
+</div>
 
 <style>
 #cir {
   border-radius: 50%;
 }
 </style>
-
+<style>
+.vertical-center {
+  display: flex;
+  align-items: center;
+}
+</style>
