@@ -19,14 +19,14 @@ QQ群#2（没满）：[796440132](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=dpqQ
 ### 在此也感谢三年来为群，频道所服务的管理员：
 <div class="vertical-center">
 小宇：<img src="http://q1.qlogo.cn/g?b=qq&nk=2656046824&s=100" id="cir">
-  Leonz：<img src="http://q1.qlogo.cn/g?b=qq&nk=1377418284&s=100" id="cir">
-  pooo：<img src="http://q1.qlogo.cn/g?b=qq&nk=1101447296&s=100" id="cir">
+&nbsp;&nbsp;Leonz：<img src="http://q1.qlogo.cn/g?b=qq&nk=1377418284&s=100" id="cir">
+&nbsp;&nbsp;pooo：<img src="http://q1.qlogo.cn/g?b=qq&nk=1101447296&s=100" id="cir">
 </div>
 <br>
 <div class="vertical-center">
 Leaves：<img src="http://q1.qlogo.cn/g?b=qq&nk=1416439811&s=100" id="cir">
-  小鹿：<img src="http://q1.qlogo.cn/g?b=qq&nk=1956686150&s=100" id="cir">
-  danxie：<img src="http://q1.qlogo.cn/g?b=qq&nk=1636588243&s=100" id="cir">
+&nbsp;&nbsp;小鹿：<img src="http://q1.qlogo.cn/g?b=qq&nk=1956686150&s=100" id="cir">
+&nbsp;&nbsp;danxie：<img src="http://q1.qlogo.cn/g?b=qq&nk=1636588243&s=100" id="cir">
 </div>
 <br>
 <div class="vertical-center">
