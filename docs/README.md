@@ -44,4 +44,9 @@ denisliang：<img src="http://q1.qlogo.cn/g?b=qq&nk=1677614246&s=100" id="cir">
   display: flex;
   align-items: center;
 }
+@media (max-width: 768px) {
+  .vertical-center {
+    flex-direction: column;
+    justify-content: center;
+  }
 </style>
