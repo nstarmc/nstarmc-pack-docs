@@ -2,7 +2,8 @@
   "HomePath": "C:\\Users\\Administrator\\Desktop\\nstarmc-pack-docs\\docs",
   "DisableGenerateReadmeFile": true,
   "IgnoreFile": [
-    "_coverpage.md"
+    "_coverpage.md",
+    "_navbar.md"
   ],
   "IgnoreDir": [
     ".git"
