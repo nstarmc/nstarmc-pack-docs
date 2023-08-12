@@ -69,14 +69,7 @@
           },
           isExpected: true,
         },
-        plugins: [EditOnGithubPlugin.create('https://github.com/nstarmc/nstarmc-pack-docs/tree/main/docs', null,
-        function(file) {
-          if (file.indexOf('en') === -1) {
-            return '在Github上编辑'
-          } else {
-            return 'Edit on gitub'
-          }
-        })]
+        plugins: [EditOnGithubPlugin.create('https://github.com/nstarmc/nstarmc-pack-docs/tree/main/docs', null,"在Github上编辑")],
       };</script>
     <!-- edit -->
     <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github">
