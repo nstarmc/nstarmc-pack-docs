@@ -1,0 +1,13 @@
+{
+  "HomePath": "C:\\Users\\Administrator\\Desktop\\nstarmc-pack-docs\\docs",
+  "DisableGenerateReadmeFile": false,
+  "IgnoreFile": [
+
+  ],
+  "IgnoreDir": [
+    ".git"
+  ],
+  "IgnoreDirNameContain": [
+    ".assets"
+  ]
+}
