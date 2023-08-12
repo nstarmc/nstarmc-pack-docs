@@ -1,14 +1,15 @@
-<!-- _coverpage.md -->
+![logo](./assets/横向-1691805935510-9.png)
 
-![logo](_media/icon.svg)
+# NSTARMC基础模组整合包 <small>2020-2023</small>
 
-# docsify <small>3.5</small>
+> 一款全版本简单实用的我的世界轻量基础整合包
 
-> 一个神奇的文档网站生成器。
+- 简单使用，解压就行
+- 自动安装Java环境
+- 多款模组聚合，助你探索Minecraft！
 
-- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
+[MCBBS]([[1.20.1-1.7.10\]NSTAR（夜阑星空）基础模组整合包（含光影） - 整合包发布 - Minecraft(我的世界)中文论坛 - (mcbbs.net)](https://www.mcbbs.net/thread-1025346-1-1.html))
+[开始阅读](#README)
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+![](./assets/image-20230812101226264.png)
+
