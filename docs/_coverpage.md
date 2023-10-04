@@ -11,5 +11,3 @@
 [MCBBS](https://www.mcbbs.net/thread-1025346-1-1.html)
 [开始阅读](#NSTARMC)
 
-![](./assets/image-20230812101226264.png)
-
